@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/investing/scenes/scene 00.unity
+    guid: 48d39cd3abe821646acd02f50b389e2a
+  - enabled: 1
+    path: Assets/investing/scenes/scene 01.unity
+    guid: e8efe48638e49ae4e84e0099bcce622e
+  - enabled: 1
+    path: Assets/investing/scenes/scene 02.unity
+    guid: 82e40d1c631af3d44899973e58c0abfa
+  - enabled: 1
+    path: Assets/investing/scenes/scene 03.unity
+    guid: 613fb396b072a4a43ad7919875897b1a
+  - enabled: 1
+    path: Assets/investing/scenes/scene 04.unity
+    guid: e7c52c19d51d2f44f9ca410d975e5bbb
+  - enabled: 1
+    path: Assets/investing/scenes/scene 05.unity
+    guid: 5f778f4e04b96e742b19ace909971dfa
+  - enabled: 1
+    path: Assets/investing/scenes/scene 06.unity
+    guid: a857428869a0fc6409364b6c095bcff4
+  - enabled: 1
+    path: Assets/investing/scenes/scene 07.unity
+    guid: 4e38a15254c9fbf4b8716ffd5b9c2843
+  - enabled: 1
+    path: Assets/investing/scenes/scene 08.unity
+    guid: 96deed650933c3140af51373259e632d
+  - enabled: 1
+    path: Assets/investing/scenes/scene 09.unity
+    guid: 7d8a4cf349f84b0489eaf78dcff73737
+  - enabled: 1
+    path: Assets/investing/scenes/scene 10.unity
+    guid: df0de98a75e7e2a488e017e47af97cb0
+  - enabled: 1
+    path: Assets/investing/scenes/scene 11.unity
+    guid: 62273f7f80bda3e45ab60b964690fff9
+  - enabled: 1
+    path: Assets/investing/scenes/scene 12.unity
+    guid: a8bfb1cc348232942b321f3420fbe041
+  - enabled: 1
+    path: Assets/investing/scenes/scene 13.unity
+    guid: c90caef5cc11ca44eafb384e3e1fe37a
+  - enabled: 1
+    path: Assets/investing/scenes/scene 14.unity
+    guid: 1e5f6031191e7324894a1468f260d4fd
+  - enabled: 1
+    path: Assets/investing/scenes/flat shop.unity
+    guid: 7f5a9de537f14c546b79bbd77b7fb565
+  - enabled: 1
+    path: Assets/investing/scenes/vehicle shop.unity
+    guid: 2044ad3271d66be49af381823e5f1de1
+  m_configObjects: {}
